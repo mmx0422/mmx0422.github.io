@@ -2,3 +2,9 @@ site_name: User guide title
 site_url: https://githubusername.github.io/site
 theme:
   name: material
+nav:
+  - Introduction: 'index.md'
+  - Food: 'food.md'
+  - Blacksburg Entertainment: 'blacksburg_entertainment.md'
+  - On-Campus Entertainment: 'on_campus_entertainment.md'
+  - Shopping: 'shopping.md'
