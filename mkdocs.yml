@@ -8,3 +8,5 @@ nav:
   - Blacksburg Entertainment: 'blacksburg_entertainment.md'
   - On-Campus Entertainment: 'on_campus_entertainment.md'
   - Shopping: 'shopping.md'
+extensions:
+  - tables
