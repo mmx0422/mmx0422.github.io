@@ -16,8 +16,8 @@ If you’re in the mood for ginormous portions of Chinese food, then Chinese Kit
 |Public Consenus| 3.6/5
 |Price Range| $10–20
 |Location| 1409 N Main St No. 002, Blacksburg, VA 24060
-- Popularity: 7/10
-- Overall Rating: 7.5/10
+|Popularity| 7/10
+|Overall Rating| 7.5/10
 
 
 ## Cookout
