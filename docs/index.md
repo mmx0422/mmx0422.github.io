@@ -7,7 +7,7 @@ description: The landing page of Blacksburg on a Budget; provides overviews of e
 
 ![An image of two hands holding a brown, empty wallet open.](image.png)
 
-Are you new to Blacksburg, wondering what the area has to offer, or just looking for a good meal, but are worried about getting the most bang for your buck? Then this User Guide has you covered! Including within it are sections dedicated to the various food, on-campus and off-campus entertainment, and shopping options located all around the area. Click the links below or on the side bar(?) to learn more!
+Are you new to Blacksburg, wondering what the area has to offer, or just looking for a good meal, but are worried about getting the most bang for your buck? Then this User Guide has you covered! Including within it are sections dedicated to the various food, on-campus and off-campus entertainment, and shopping options located all around the area. Click the links below or on the side bar to learn more!
 
 ## [Food](food.md)
 
