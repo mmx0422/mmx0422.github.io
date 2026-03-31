@@ -11,7 +11,7 @@ From the outset, the options for food available to you in Blacksburg may seem in
 
 If you’re in the mood for ginormous portions of Chinese food, then Chinese Kitchen more than has you covered! For around $10, customers are supplied with two meals’ worth of food, an amount that more than justifies the price. Open until 10:00 pm on most days, Chinese Kitchen is a fantastic, and filling, late-night place that can satisfy all your after-hour cravings.
 
-![A screenshot of Chinese Kitchen from Google Maps](<Chinese Kitchen.png>)
+![An image of chopsticks laying on a bowl of sauce and a plate of dumplings](xiuqilong-chinese-food-5233490_1280-1.jpg)
 
 |  |  |
 | :--- | :---- |
@@ -30,7 +30,7 @@ A cheap, late-night fast food restaurant that primarily operates through a drive
 
     While not necessary, I'd recommend taking a look at the menu online before heading through the drive-through. There are a lot of options available to you, and the menu is visually complicated at a first glance, so taking a look at it ahead of time will give you a smoother dining experience.
 
-![A screenshot of Cookout from Google Maps](Cookout.png)
+![An image of a hamburger and fries resting on a wooden cutting board next to a cup of sauce.](21087530-burger-6165330_1280.jpg)
 
 |  |  |
 | :--- | :---- |
@@ -45,7 +45,7 @@ A cheap, late-night fast food restaurant that primarily operates through a drive
 
 If you’re looking for a cheap place to buy groceries in bulk, or just think Kroger and Food Lion are too expensive, Aldi is your one-stop-shop for inexpensive groceries. Unlike other grocery stores, 90% of items at Aldi are generic, non-branded products; however, these products make up for their lack of branding with a marginally cheaper price. So, if price matters more to you than branding, give Aldi a try. Your wallet will thank you.
 
-![A screenshot of Aldi on Google Images](<Aldi Grocery Store.png>)
+![Rows of beverages on sale at a supermarket.](igorovsyannykov-beverages-3105631_1280.jpg)
 
 |  |  |
 | :--- | :---- |
@@ -60,7 +60,7 @@ If you’re looking for a cheap place to buy groceries in bulk, or just think Kr
 
 The Blacksburg Farmer’s Market is a great local spot for fresh fruits, vegetables, and meat, amongst other items. From time to time, local musicians come and play live music, providing a relaxing ambience as you walk around and explore the area. Check it out if you’d like to get more in touch with the local culture of Blacksburg!
 
-![A screenshot of the Blacksburg Farmers Market on Google Maps](<Blacksburg Farmers Market.png>)
+![An image of a woman wearing a pink shirt passing by piles of fruits and vegetables.](markthomas-peppers-1794510_1280.jpg)
 
 |  |  |
 | :--- | :---- |
@@ -76,7 +76,7 @@ The Blacksburg Farmer’s Market is a great local spot for fresh fruits, vegetab
 
 Much like Chinese Kitchen, Blacksburg No. 1 offers their customers high-quality Chinese food at an affordable price. No matter what dining experience you’re in the market for, Blacksburg No. 1 fits into your preferences by providing both an option for take out and dining in. Averaging at around $15 per meal, this could be your next stop for authentic Chinese food.
 
-![A screenshot of Blacksburg No.1 on Google Maps](<Blacksburg no 1.png>)
+![An image of six eggrolls placed onto a plate.](drawsandcooks-nem-2856543_1280.jpg)
 
 |  |  |
 | :--- | :---- |
@@ -92,7 +92,7 @@ Much like Chinese Kitchen, Blacksburg No. 1 offers their customers high-quality 
 
 To many Virginia Tech students, Joe’s Diner has some of the best breakfast food in town. Though, if you’re not in the mood for breakfast food, Joe’s Diner can also satisfy any lunch cravings you may have, offering things like burgers, sandwiches, and quesadillas. Open until 2:00pm on most days, this could end up being your new one-stop-shop for breakfast food.
 
-![A screenshot of Joe's Diner on Google Maps](<Joes diner.png>)
+![An image of syrup being poured onto pancakes with raspberries on top.](piviso-pancakes-2291908_1280.jpg)
 
 |  |  |
 | :--- | :---- |
@@ -101,4 +101,19 @@ To many Virginia Tech students, Joe’s Diner has some of the best breakfast foo
 |Location| N Main St, Blacksburg, VA 24060
 |Popularity| 8/10
 |Overall Rating| 8/10
+|  |  |
+
+## Rising Silo
+
+A small farm turned restaurant that serves burgers, specialty drinks, and seasonal beers! Their indoor and outdoor seating is perfect for any weather. Occasionally, a local band comes by and plays. They occasionally host a live band or entertainer!
+
+![An image of several beers on tap at a bar.](christian_birkholz-bar-209148_1280-1.jpg)
+
+|  |  |
+| :--- | :---- |
+|Public Consenus| 4.6/5
+|Price Range|  $5-9 Beer, $14-18 Food
+|Location| 2351 Glade Rd, Blacksburg, VA 24060
+|Popularity| 9.2/10
+|Overall Rating| 9.6/10
 |  |  |

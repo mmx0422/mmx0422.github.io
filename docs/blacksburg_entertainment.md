@@ -2,6 +2,7 @@
 title: Blacksburg Entertainment
 description: A list that gives users a variety of options when it comes to entertainment in and around Blacksburg.
 ---
+
 # Blacksburg Entertainment
 From scenic trails to local bars, entertainment is scattered all across Blacksburg and the local area. Whether or not you're searching for a vibrant, busy venue or a quiet, scenic walk, there's enough in Blacksburg to keep anyone active and entertained for the years many people spend here. 
 
@@ -102,3 +103,48 @@ For those wanting a multipurpose trail for walking, running, or biking, Hucklebe
 |  |  | 
 
 Cambria Station Antiques provides 3 floors of unique finds, handmade furniture, and valuable items. While you can definitely find items that are out of your budget, there’s such a wide selection of antiques that anyone could find something in their price range. They also have regular sales on items, which means that you could potentially score an item for less than what it’s valued for. 
+
+## Duck Pond
+
+Do you like ducks? Looking at wildlife? Sitting under a willow tree? You will love the Duck Pond! It has everything from ducks and geese to bunnies and frogs! It’s an outdoor area around a small pond filled with gazebos, benches, bridges, and sculptures! The path is connected to the Huckleberry Trail, which can bring you to campus or anywhere else it leads in Blacksburg!
+
+![An image of Duckpond](https://www.archive.vtmag.vt.edu/fall14/images/duck-pond-gazebo.jpg)
+
+|  |  | 
+| :---: | :---: |
+| Public Consensus | 4.7/5 |
+| Price Range | $0 |
+| Location | 1 Duck Pond Dr, Blacksburg, VA 24060 |
+| Popularity | 9.4/10 | 
+| Overall Rating | 9.6/10 | 
+|  |  | 
+
+## Hahn Horticulture Garden
+
+A garden haven you can escape to near Virginia Tech campus. Community groups, university clubs, and faculty upkeep this garden to keep up with the weather and be relevant to the people that come there. There’s everything from artistic sculptures made from students at Tech, to hammock hangers, and small bodies of water filled with koi fish!
+
+![A landscape image of Hahn Horticulture Garden that showcases several flowers, plants, and a stream](https://www.vt.edu/content/dam/vt_edu/about/buildings/images/hahn-garden-2010.jpg.transform/m-medium/image.jpg)
+
+|  |  | 
+| :---: | :---: |
+| Public Consensus | 4.8/5 |
+| Price Range | $0 |
+| Location | 200 Garden Ln, Blacksburg, VA 24061 |
+| Popularity | 9.6/10 | 
+| Overall Rating | 9.8/10 | 
+|  |  | 
+
+## Pandapas Pond
+
+A large pond just outside Blacksburg that’s full of forest, views, and trailheads! It’s a great place to run, mountain bike, and hike!
+
+![A landscape shot of Pandapas pond during the day](https://gohikevirginia.com/wp-content/uploads/2023/06/Pandapas-Pond-Pond-Feature-800x445.jpg)
+
+|  |  | 
+| :---: | :---: |
+| Public Consensus | 4.8/5 |
+| Price Range | $0 |
+| Location | 4033 Pandapas Pond Rd, Blacksburg, VA 24060 |
+| Popularity | 9.6/10 | 
+| Overall Rating | 9.8/10 | 
+|  |  | 
