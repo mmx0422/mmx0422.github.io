@@ -19,7 +19,7 @@ From scenic trails to local bars, entertainment is scattered all across Blacksbu
 
 The Milk Parlor is characterized by the fat cats painted on the outside brick, live music, and sticky floors that don't let you shake the dive bar vibe the second you walk in. While they don’t have an extensive food menu, they’re known for their gooey grilled cheeses and mozzarella sticks. They have line dancing nights and are typically used as a venue for live music on busier nights. 
 
-![The outside of the Lyric Theatre and Blacksurg Downtown](https://www.blacksburg.gov/Home/Components/FacilityDirectory/FacilityDirectory/42/)
+![The outside of the Lyric Theatre and Blacksurg Downtown](https://i.redd.it/nzp0sbtw73z81.jpg) 
 ## Lyric Theatre
 
 |  |  | 
