@@ -16,7 +16,7 @@ The Milk Parlor is characterized by the fat cats painted on the outside brick, l
 ![The outside of the Lyric Theatre and Blacksurg Downtown](https://www.blacksburg.gov/Home/Components/FacilityDirectory/FacilityDirectory/42/)
 ## Lyric Theatre
 
-| --- | --- |
+| :---: | :---: |
 | Public Consensus | 4.8/5 |
 | Price Range | $0-$10 |
 | Location | 135 College Ave, Blacksburg, VA | 
@@ -28,7 +28,7 @@ The Lyric is a nonprofit historic theatre built in the 1930s and has been preser
 ![Food served by Gillie's - Vegetarian Restaurant](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/40/d3/44/img-5664-largejpg.jpg?w=1000&h=1000&s=1)
 ## Gillie's - Vegetarian Restaurant
 
-| --- | --- |
+| :---: | :---: |
 | Public Consensus | 4.5/5 |
 | Price Range | $10-$20 |
 | Location | 153 College Ave, Blacksburg, VA | 
@@ -40,7 +40,7 @@ Gillie’s is a vegetarian restaurant that serves breakfast, lunch, and dinner, 
 ![Coral Bank Hollow's Album Cover on Spotify](https://i.scdn.co/image/ab67616d00001e02663a5738078145a0c4d342e1)
 ## Coral Bank Hollow 
 
-| --- | --- |
+| :---: | :---: |
 | Public Consensus | 4.5/5 |
 | Price Range | Varied |
 | Location | @coralbankhollow on Instagram | 
@@ -52,7 +52,7 @@ A local garage band in Blacksburg, VA, Coral Bank Hollow is composed of 5 member
 ![Cascades Waterfall Located at the End of the Trail](https://gohikevirginia.com/wp-content/uploads/2020/10/Cascades-Falls-View-One-Feature-800x445.jpg)
 ## Cascades
 
-| --- | --- |
+| :---: | :---: |
 | Public Consensus | 4.9/5 |
 | Price Range | Free |
 | Location | 2068 Cascade Dr, Pembroke, Virginia |
@@ -64,7 +64,7 @@ A beautiful 4-mile trail following a stream located 45 minutes away from campus,
 ![Image along the Huckleberry Trail](https://cloudfront.traillink.com/photos/huckleberry-trail_190072_sc.jpg)
 ## Huckleberry Trail
 
-| --- | --- |
+| :---: | :---: |
 | Public Consensus | 5/5 |
 | Price Range | Free |
 | Location | Starts at the Blacksburg Public Library |
@@ -76,7 +76,7 @@ For those wanting a multipurpose trail for walking, running, or biking, Hucklebe
 ![Ribbon Cutting outside of Cambria Station Antiques](https://nrvnews.com/wp-content/uploads/2022/11/cambria-station-ribboncutting.jpg)
 ## Cambria Station Antiques
 
-| --- | --- |
+| :---: | :---: |
 | Public Consensus | 4.7/5 |
 | Price Range | $10-$100+ |
 | Location | 596 Depot St NE, Christiansburg, VA |
