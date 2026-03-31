@@ -1,10 +1,14 @@
+---
+title: Blacksburg Entertainment
+description: A list that gives users a variety of options when it comes to entertainment in and around Blacksburg.
+---
 # Blacksburg Entertainment
 From scenic trails to local bars, entertainment is scattered all across Blacksburg and the local area. Whether or not you're searching for a vibrant, busy venue or a quiet, scenic walk, there's enough in Blacksburg to keep anyone active and entertained for the years many people spend here. 
 
 ![The outside of the Milk Parlor](https://lh3.googleusercontent.com/p/AF1QipOkaX7s6QnHqo_OK_4pYXJYFAW5UT017sGUbclM=s1360-w1360-h1020-rw)
 ## Milk Parlor
 
-| --- | --- |
+| :---: | :---: |
 | Public Consensus | 4.3/5 |
 | Price Range | $10-$20 |
 | Location | 211 B Draper Rd NW, Blacksburg, VA| 
