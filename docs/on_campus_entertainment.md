@@ -1,6 +1,8 @@
-<!DOCTYPE html>
-
-# On-campus Entertainment
+---
+title: On-Campus Entertainment
+description: A list of activities, resources, and events for students to get involved on Virginia Tech's campus for free or on a budget.
+---
+# On-Campus Entertainment
 
 Virginia Tech’s campus offers a variety of amazing resources and organizations, including clubs, events, facilities, and more. As a community, Hokies are always finding new ways to support each other, get involved, and grow their social network. Here are some great ways that you can get involved on campus and start having fun on a budget.
 
@@ -8,6 +10,7 @@ Virginia Tech’s campus offers a variety of amazing resources and organizations
 
 Every Fall semester, GobblerFest is hosted on the Drillfield during the first week of classes. There are over 700 booths at the event, each representing a different organization, club, group, chapter, or program. Volunteers at each booth serve as informants to fellow Hokies, promoting their cause, giving student the opportunity to discover different avenues to get involved on and off campus.  Many booths even hand out prizes or merchandise. There are even rides and live performances so there’s something for everyone. If you’re lucky, maybe you’ll even see the HokieBird jaunting around.
 
+![Virginia Tech Drillfield during GobblerFest.](gobbler.jpg)
 ## [Breakzone](https://campuslife.vt.edu/student_centers/Squires/BreakZone.html)
 [Squires Student Center](https://campuslife.vt.edu/student_centers/Squires.html) contains a facility called Breakzone where students can go to hang out and spend time with friends in a relaxing environment. The area contains a bowling alley and billiards that adhere to the following schedules for pricing:
 
@@ -23,6 +26,8 @@ Club Tables: $5/hr <br>
 Snooker Table: $5/hr <br>
 Bumper Pool: $2.50/hr <br>
 
+![A close-up photo of bowling balls at a bowling alley.](sharonang-bowling-237905_1920.jpg)
+
 Breakzone hosts frequent events and tournaments for students to compete, connect, and even win cool prizes! 
 
 ## [Intramural Sports](https://recsports.vt.edu/intramuralsports.html)
@@ -32,6 +37,8 @@ Intramural sports are a great way to stay active and have fun with other Hokies.
 
 ## [Tennis and volleyball courts on campus](https://recsports.vt.edu/facilities/tenniscourts.html)
 For Hokies who want to stay active for free, check out the tennis and volleyball courts on campus. The best part is how the community comes together on sunny days to enjoy these free facilities on campus. Grab your squad or meet new friends to enjoy these on-campus activities!
+
+![Tennis courts on Virginia Tech's campus.](courts.jpg)
 
 ## [GobblerConnect](https://gobblerconnect.vt.edu/events)
 GobblerConnect is the one-stop shop to discover on-campus events at Virginia Tech. A vast variety of options are displayed, including speakers, dining services, workshops, and many, many more. Some intriguing options for Spring 2026 include:
