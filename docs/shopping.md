@@ -1,8 +1,15 @@
+---
+title: Shopping in Blacksburg
+description: An affordable, all-ages thrift store where you can sell and/or buy clothes. It has everything from popular name brands to one of a kind finds.
+---
+
 # Shopping in Blacksburg
 
 Places to shop/thrift for cheap in this college town.
 
-### Plato's Closet
+![A random photo of a thrifter](https://as1.ftcdn.net/v2/jpg/08/74/41/66/1000_F_874416696_vtvC40oKXfZ6JY72tHHiBfaoItPqSPDV.jpg)
+
+### [Plato's Closet](https://platoscloset.com/locations/christiansburg-va/)
 
 *An affordable, all-ages thrift store where you can sell and/or buy clothes. It has everything from popular name brands to one of a kind finds.*
 
@@ -14,7 +21,7 @@ Popularity: 3.7 stars
 
 Overall Rating: 4.5 stars
 
-### Uptown Cheapskate
+### [Uptown Cheapskate](https://www.uptowncheapskate.com/location/christiansburg/)
 
 *A slightly more upbeat, but affordable thrift store where you can sell and/or buy clothes. It has everything from popular name brands to one of a kind finds.* 
 
@@ -26,7 +33,7 @@ Popularity: 4.8 stars
 
 Overall Rating: 4.5 stars
 
-### Goodwill
+### [Goodwill](https://www.goodwillvalleys.com/)
 *A place to thrift more than clothes and accessories. You can buy or donate here.*
 
 Price Range: offers clothing for under $10-$15 and varied pricing for housewares, with some items reported as high as $15-$30 or more for specialty items. Daily discounts include a 50% off "Color of the Week" for most clothing, excluding new items.
@@ -37,7 +44,7 @@ Popularity: 3.6 stars
 
 Overall Rating: 3.8 stars
 
-### Hokies Thrift
+### [Hokies Thrift](https://www.hokiesthrift.com/)
 
 *A slightly more upbeat, but affordable thrift store where you can sell and/or buy clothes. It has everything from popular name brands to one of a kind finds.* 
 
@@ -49,7 +56,7 @@ Popularity: 5.0 stars
 
 Overall Rating: 4.7 stars
 
-### YMCA
+### [YMCA](https://vtymca.org/)
 
 *A place to thrift more than clothes and accessories, but as well as things you could have in your home. You can buy or donate here.*
 
