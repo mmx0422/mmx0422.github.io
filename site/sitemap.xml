@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://githubusername.github.io/site/</loc>
-         <lastmod>2026-02-26</lastmod>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
+         <loc>https://githubusername.github.io/site/blacksburg_entertainment/</loc>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
+         <loc>https://githubusername.github.io/site/food/</loc>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
+         <loc>https://githubusername.github.io/site/hi/</loc>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
+         <loc>https://githubusername.github.io/site/on_campus_entertainment/</loc>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
+         <loc>https://githubusername.github.io/site/shopping/</loc>
+         <lastmod>2026-03-31</lastmod>
     </url>
 </urlset>
