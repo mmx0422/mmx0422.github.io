@@ -22,58 +22,73 @@
     }
 
     .bg-image-container {
-     background-image: url('Konran Dreams and the Ferry Council Graphic Design Project.png');
+      background-image: url('Konran Dreams and the Ferry Council Graphic Design Project.png');
       background-size: cover;
       background-position: center;
-     height: 70vh;
-     background-repeat: no-repeat;
+      height: 75vh;
+      background-repeat: no-repeat;
+      padding-top: 1px;
     }
 
+    .gradient {
+      background-image: linear-gradient(to bottom, #1e2130ff, #1e2130ff);
+      border-width: 4px;
+      border-color: #fff6e1ff
+    }
+
+    .custom-footer-text {
+      color: #fff6e1ff;
+      /* Use !important if Bootstrap defaults override your style */
+    }
   </style>
 </head>
 
 <body class="h-100 w-100 d-flex flex-column">
-  <nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#baa570ff" aria-label="navbar">
+  <nav class="navbar navbar-expand-lg navbar-dark mb-4" style="background-color:#baa570ff" aria-label="navbar">
     <div class="container"> <a class="navbar-brand" href="#">Graphic Design Gallery</a> <button class="navbar-toggler"
         type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false"
         aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
       <div class="collapse navbar-collapse" id="navbar">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item"> <a class="nav-link active" aria-current="page" href="#">Home</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="#">About Me</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="#">Gallery</a> </li>
+          <li class="nav-item"> <a class="nav-link active" aria-current="page" href="index.html">Home</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="about.html">About Me</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="gallery.html">Gallery</a> </li>
         </ul>
         <form role="search"> <input class="form-control" type="search" placeholder="Search" aria-label="Search"> </form>
       </div>
     </div>
   </nav>
   <main class="container flex-grow-1">
-    <div>
+    <div class="border border-3">
       <header class="bg-image-container text-white d-flex align-items-center justify-content-center">
-  <h1 class=" bg-primary display-3 fw-bold">Graphic Design Portfolio</h1>
-</header>
-      </div>
-      <div>
-        <p>
-          Contained within this website is a collection of the graphic design projects I've worked on over the years. Despite only getting into the hobby a couple years ago, I am well-experienced when it comes to art, as I've been drawing and writing for most of my life.
-        </p>
-      </div>
-      <div>
-        <p>
-          As that is the case,
-        </p>
-      </div>
-      <h1>Heading 1</h1>
+        <div class="gradient">
+          <h1 class="display-3 p-3 fw-bold border border-3">Graphic Design Gallery</h1>
+        </div>
+      </header>
+    </div>
+    <h1 class="py-3">Introduction</h1>
+    <div>
+      <p>
+        Contained within this website is a collection of the graphic design projects I've worked on over the years.
+        Despite only getting into the hobby a couple years ago, I am well-experienced when it comes to art, as I've been
+        drawing and writing for most of my life.
+      </p>
+    </div>
+    <div>
+      <p>
+        As that is the case,
+      </p>
     </div>
   </main>
-  <footer class="mt-auto border-top">
+  <footer class="mt-auto border-top text-white">
     <div class="container d-flex flex-wrap justify-content-between align-items-center py-3">
-      <div class="col-md-4 d-flex align-items-center"><span class="mb-3 mb-md-0 ps-1 text-body-secondary">© 2026 Max
+      <div class="col-md-4 d-flex align-items-center"><span class="mb-3 mb-md-0 ps-1 text-body-white-secondary">© 2026
+          Max
           M.</span></div>
       <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-        <li class="ms-3"><a class="text-body-secondary" href="#" aria-label="Instagram"><i
+        <li class="ms-3"><a class="text-body-white-secondary" href="#" aria-label="Instagram"><i
               class="bi bi-instagram"></i></a></li>
-        <li class="ms-3"><a class="text-body-secondary" href="#" aria-label="Facebook"><i
+        <li class="ms-3"><a class="text-body-white-secondary" href="#" aria-label="Facebook"><i
               class="bi bi-facebook"></i></a></li>
       </ul>
     </div>
