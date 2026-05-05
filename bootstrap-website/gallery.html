@@ -1,43 +1,248 @@
 <!doctype html>
-<html lang="en" class="h-100 w-100"> 
+<html lang="en" class="h-100 w-100">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Bootstrap demo</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">  
-</head> 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  <style>
+    body {
+      background-color: #1e2130ff;
+    }
+
+    h1 {
+      color: #fff6e1ff;
+    }
+
+    h3 {
+      color: #fff6e1ff;
+    }
+
+    h4 {
+      color: #fff6e1ff
+    }
+
+    h5 {
+      color: #fff6e1ff
+    }
+
+    @media (max-width: 768px) {
+      h3 {
+        padding-top: 10px;
+      }
+    }
+
+    p {
+      color: #fff6e1ff;
+    }
+
+    .bg-image-container {
+      background-image: url('Konran Dreams and the Ferry Council Graphic Design Project.png');
+      background-size: cover;
+      background-position: center;
+      height: 75vh;
+      background-repeat: no-repeat;
+      padding-top: 1px;
+      flex-shrink: 1;
+    }
+
+    .gradient {
+      background-image: linear-gradient(to bottom, #1e2130ff, #1e2130ff);
+      border-width: 1px;
+      border-color: #fff6e1ff;
+      object-fit: cover;
+      margin: 10px;
+    }
+
+    .custom-footer-text {
+      color: #fff6e1ff;
+    }
+
+    .card-text {
+      color: #1e2130ff
+    }
+
+    .border {
+      object-fit: contain;
+    }
+
+    .carouselExampleIndicators {
+      max-height: 75vh;
+      max-width: 75vh;
+    }
+
+    .static-heading {
+      top: 50%;
+      /* Adjust to vertical center */
+      left: 50%;
+      /* Adjust to horizontal center */
+      transform: translate(-50%, -50%);
+      z-index: 10;
+      /* Ensures it stays on top */
+      color: white;
+      background-color: #1e2130ff;
+      /* Semi-transparent highlight */
+      padding: 10px;
+      border-radius: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+
 <body class="h-100 w-100 d-flex flex-column">
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="navbar">
-    <div class="container"> <a class="navbar-brand" href="#">Site name</a> <button class="navbar-toggler" type="button"
-        data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar"
-        aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+  <nav class="navbar navbar-expand-lg navbar-dark mb-4" style="background-color:#baa570ff" aria-label="navbar">
+    <div class="container"> <i class="bi bi-pencil pe-2 fs-2" style="color:white"></i> <a class="navbar-brand"
+        href="index.html">Graphic Design Gallery</a> <button class="navbar-toggler" type="button"
+        data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false"
+        aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
       <div class="collapse navbar-collapse" id="navbar">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item"> <a class="nav-link active" aria-current="page" href="#">Home</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="#">Link</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="index.html">Home</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="about.html">About Me</a> </li>
+          <li class="nav-item"> <a class="nav-link active" aria-current="page" href="gallery.html">Gallery</a> </li>
         </ul>
-        <form role="search"> <input class="form-control" type="search" placeholder="Search" aria-label="Search"> </form>
       </div>
     </div>
   </nav>
   <main class="container flex-grow-1">
+    <h1 class="text-center text-decoration-underline py-3">My Graphic Design Gallery</h1>
     <div>
-      <h1>Hello, world!</h1>
+      <hr class="border-white border-top opacity-100">
     </div>
+    <div class="row py-3">
+      <div class="col-lg-6">
+        <img src="images/Sins of the Concrete Jungle - Title Design 5.png" class="img-fluid border border-3">
+      </div>
+      <div class="col-lg-6">
+        <h3>SotCJ Logo</h3>
+        <p>This is main logo I designed for Sins of the Concrete Jungle, a fiction series that I've been working on
+          since the start of my Freshman year of college.</p>
+        <div>
+          <p>I use a lot of bold, minimalistic shapes and colors in my designs, and this is no exception. I wanted to
+            create something that embodied the feeling of my work while also keeping things simple, allowing the
+            contrast present in the piece to stand out.</p>
+        </div>
+        <div>
+          <p>While figuring out the design, I mainly looked at the typography work on the anime Neon Genesis Evangelion
+            for inspiration. Mainly, I really liked how the font looked in the show's episode title cards, so I tried my
+            best to replicate it here, something I did very well.</p>
+        </div>
+      </div>
+    </div>
+    <div>
+      <hr class="border-white border-top opacity-100">
+    </div>
+    <div class="row py-3">
+      <div class="col-lg-6 order-lg-first">
+        <h3>SotCJ Eyecatcher</h3>
+        <p>This is another design I did for my series, as mentioned above. This time, I wanted to capture a certain tone
+          of uneasiness and surveillance while using the book's setting, New York City, as a backdrop.</p>
+        <div>
+          <p>I'm sure it's easy to tell, considering the only bit of typography in the design, but the Radiohead song of
+            the same name was a big inspiration for this piece. The cold, electronic sound of the song lent itself
+            incredibly well to the ideas I wanted to convey, so it was looping in the background for most of the time
+            that I worked on it.</p>
+        </div>
+        <div>
+          <p>It was hard managing all the objects when I was limited to Google Slides as my main graphic design program,
+            but I still think it turned out alright.</p>
+        </div>
+      </div>
+      <div class="col-lg-6 order-first order-lg-last">
+        <img src="images/Sins of the Concrete Jungle - Title Design 2.png" class="img-fluid border border-3">
+      </div>
+    </div>
+    </div>
+    <div>
+      <hr class="border-white border-top opacity-100">
+    </div>
+    <div class="row py-3">
+      <div class="col-lg-6 order-last order-lg-last">
+        <h3>Konran Dreams Logo</h3>
+        <p>This design is the finalized rough draft of a logo I'm working on for a friend's Dungeons and Dragons
+          Campaign. In early March, 2026, I got a message from him asking me if I wouldn't mind making a logo for a
+          faction in his campaign, and, because I needed an excuse to get back into graphic design, I got to work on it
+          immediately.</p>
+        <div>
+          <p>Again, because this design is rough, things are obviously subject to change. As it is right now, however, I
+            wanted give off a space-y sort of feeling, which is mainly why the comet is there. Since the faction is
+            mostly comprised of people from another world, I figured this made this.</p>
+        </div>
+        <div>
+          <p>Unlike the designs above, I didn't have a direct inspiration for this piece. Since I was getting back into
+            the hobby at the time, I wanted to give myself some room to experiment.</p>
+        </div>
+      </div>
+      <div class="col-lg-6 order-lg-first">
+        <img src="images/Konran Dreams (KRD) and the Ferry Council Graphic Design Project.png"
+          class="img-fluid border border-3">
+      </div>
+    </div>
+    </div>
+    <div>
+      <hr class="border-white border-top opacity-100">
+    </div>
+    <div class="row py-3">
+      <div class="col-lg-6 order-lg-first">
+        <h3>ECC Flyer</h3>
+        <p>During the fall semester of my Senior year at Virginia Tech, I was part of a class called Words and Pictures
+          that made communications for the English department. </p>
+        <div>
+          <p>This design was made towards the start of the semester, promoting the then-upcoming English Career
+            Connections event. Every student in the class had to make one, so there ended up being about 10 poster
+            designs the head of the event had to choose from.</p>
+        </div>
+        <div>
+          <p>While my design wasn't chosen, it was still well received, much to my relief. Again, I tried to incorporate
+            the high-contrast minimalism found in my other designs, though, because I was working with a limited color
+            palette, it was a little harder than some of the personal work I had done.</p>
+        </div>
+      </div>
+      <div class="col-lg-6 order-first order-lg-last">
+        <img src="images/Words and Pictures - English Career Connections Flyer_ Digital Version - Max McNamara (1).png"
+          class="img-fluid border border-3">
+      </div>
+    </div>
+    <div>
+      <hr class="border-white border-top opacity-100">
+    </div>
+    <div class="row py-3">
+      <div class="col-lg-6">
+        <img src="images/Words and Pictures - Podcast Graphic - Max McNamara.png" class="img-fluid border border-3">
+      </div>
+      <div class="col-lg-6">
+        <h3>Podcast Graphic</h3>
+        <p>This design is another I made for the Words and Pictures class I took, going along with an episode of the
+          "English Podcast" that I had to create that focused on the often-overlooked art of screenwriting.</p>
+        <div>
+          <p>Because I wanted the podcast to be the main focus of this project, I kept the design minimal, even more so
+            than usual. I didn't want it to be bright or overbearing, so I opted for something a little more monochrome.
+          </p>
+          <div>
+            <p>I wanted to make it visually appealing, of course, but my intended audience was going to be looking at it
+              for the entire length of the podcast, which is why I went for something more subdued.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <hr class="border-white border-top opacity-100">
+    </div>
+    <h4 class="text-center fst-italic pt-3 pb-5">More Pieces to Come Soon!</h4>
   </main>
-  <footer class="mt-auto border-top">
+  </main>
+  <footer class="mt-auto border-top text-white">
     <div class="container d-flex flex-wrap justify-content-between align-items-center py-3">
-      <div class="col-md-4 d-flex align-items-center"><span class="mb-3 mb-md-0 ps-1 text-body-secondary">© 2025 Company, Inc</span></div>
-      <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-        <li class="ms-3"><a class="text-body-secondary" href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a></li>
-        <li class="ms-3"><a class="text-body-secondary" href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a></li>
-      </ul>
+      <div class="col-md-4 d-flex align-items-center"><span class="mb-3 mb-md-0 ps-1 text-body-white-secondary">© 2026
+          Max M.</span></div>
     </div>
   </footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
     crossorigin="anonymous"></script>
-</body> 
+</body>
+
 </html>
